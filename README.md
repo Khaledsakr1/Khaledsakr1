@@ -36,7 +36,7 @@
 
 | Name | Description | Link |
 |------|-------------|------|
-| 🏆 **Premier League** | Flutter app for live scores and standings | [View](https://github.com/Khaledsakr1/premierleague.git) |
+| 🏆 **Premier League** | Flutter app for live News of Premier League Clubs | [View](https://github.com/Khaledsakr1/premierleague.git) |
 | 🛠️ **Home Service** | Flutter app for booking services at home | [View](https://github.com/Khaledsakr1/home_service.git) |
 
 ### 🖼 Premier League Demo
