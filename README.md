@@ -39,20 +39,16 @@
 | 🏆 **Premier League** | Flutter app for live News of Premier League Clubs | [View](https://github.com/Khaledsakr1/premierleague.git) |
 | 🛠️ **Home Service** | Flutter app for booking services at home | [View](https://github.com/Khaledsakr1/home_service.git) |
 
+---
+
 ### 🖼 Premier League Demo
 
 ![Premier League Demo](https://github.com/Khaledsakr1/premierleague/blob/main/8CPp.gif?raw=true)
 
+---
+
+### 🏡 Home Service Preview
+
+<img src="https://github.com/Khaledsakr1/home_service/blob/main/assets/images/WhatsApp%20Image%202025-06-17%20at%2005.04.09_1531d1e3.jpg?raw=true" width="500"/>
+
 > 🔗 **More projects on my [GitHub repositories](https://github.com/Khaledsakr1?tab=repositories)**
-
----
-
-## 🔥 Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Khaledsakr1&theme=dark)](https://git.io/streak-stats)
-
----
-
-## 💻 GitHub Profile Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khaledsakr1&show_icons=true&theme=dark)
