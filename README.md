@@ -53,6 +53,8 @@
 
 | 🏆 **Premier League** | Flutter app for live News of Premier League Clubs | [View](https://github.com/Khaledsakr1/premierleague.git) |
 
+| 💬 **Chat** | Flutter app chating | [View](https://github.com/Khaledsakr1/chatapp.git) |
+
 > 🔗 **More projects on my [GitHub repositories](https://github.com/Khaledsakr1?tab=repositories)**
 
 ---
