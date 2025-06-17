@@ -1,4 +1,16 @@
-# Hi , I'm Khaled Sakr 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" />
+</p>
+
+<h1 align="center">Hi , I'm Khaled Sakr 👋</h1>
+
+<p align="center">
+  <a href="https://github.com/Khaledsakr1">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0FF9FF&center=true&width=500&lines=Junior+Flutter+Developer;Computer+Science+Student;Welcome+to+my+GitHub+Profile!" />
+  </a>
+</p>
+
+---
 
 - 📌 I am a Junior at [Faculty of Computers & Informatics at Suez Canal University](https://www.suez.edu.eg/ar/%d8%a7%d9%84%d9%83%d9%84%d9%8a%d8%a7%d8%aa/%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/)
 - 🌱 I’m currently learning **Computer Science** and **Flutter Development**
@@ -39,16 +51,22 @@
 | 🏆 **Premier League** | Flutter app for live News of Premier League Clubs | [View](https://github.com/Khaledsakr1/premierleague.git) |
 | 🛠️ **Home Service** | Flutter app for booking services at home | [View](https://github.com/Khaledsakr1/home_service.git) |
 
----
-
 ### 🖼 Premier League Demo
 
 ![Premier League Demo](https://github.com/Khaledsakr1/premierleague/blob/main/8CPp.gif?raw=true)
 
 ---
 
-### 🏡 Home Service Preview
-
-<img src="https://github.com/Khaledsakr1/home_service/blob/main/assets/images/WhatsApp%20Image%202025-06-17%20at%2005.04.09_1531d1e3.jpg?raw=true" width="500"/>
-
 > 🔗 **More projects on my [GitHub repositories](https://github.com/Khaledsakr1?tab=repositories)**
+
+---
+
+## 🔥 Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Khaledsakr1&theme=dark)](https://git.io/streak-stats)
+
+---
+
+## 💻 GitHub Profile Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khaledsakr1&show_icons=true&theme=dark)
