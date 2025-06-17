@@ -51,12 +51,6 @@
 | 🏆 **Premier League** | Flutter app for live News of Premier League Clubs | [View](https://github.com/Khaledsakr1/premierleague.git) |
 | 🛠️ **Home Service** | Flutter app for booking services at home | [View](https://github.com/Khaledsakr1/home_service.git) |
 
-### 🖼 Premier League Demo
-
-![Premier League Demo](https://github.com/Khaledsakr1/premierleague/blob/main/8CPp.gif?raw=true)
-
----
-
 > 🔗 **More projects on my [GitHub repositories](https://github.com/Khaledsakr1?tab=repositories)**
 
 ---
