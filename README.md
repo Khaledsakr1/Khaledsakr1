@@ -46,14 +46,11 @@
 
 ## 📁 My Projects
 
-| Name | Description | Link |
-|------|-------------|------|
-
-| 🛠️ **Home Service** | Flutter app for booking services at home | [View](https://github.com/Khaledsakr1/home_service.git) |
-
-| 🏆 **Premier League** | Flutter app for live News of Premier League Clubs | [View](https://github.com/Khaledsakr1/premierleague.git) |
-
-| 💬 **Chat** | Flutter app chating | [View](https://github.com/Khaledsakr1/chatapp.git) |
+| 📌 Name           | 📄 Description                             | 🔗 Link                                                                 |
+|------------------|--------------------------------------------|-------------------------------------------------------------------------|
+| 🛠️ Home Service  | Flutter app for booking services at home   | [View](https://github.com/Khaledsakr1/home_service.git)                |
+| 🏆 Premier League| Flutter app for live news of Premier League clubs | [View](https://github.com/Khaledsakr1/premierleague.git)        |
+| 💬 Chat App      | Flutter chatting app                        | [View](https://github.com/Khaledsakr1/chatapp.git)                     |
 
 > 🔗 **More projects on my [GitHub repositories](https://github.com/Khaledsakr1?tab=repositories)**
 
